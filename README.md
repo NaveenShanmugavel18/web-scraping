@@ -1,13 +1,16 @@
 # web-scraping
 Python script to scrape the flights originating from mumbai to delhi airport.
-This scrapes the information such as the
+This scrapes the information such as,
 - Airline name
 - Aircraft type
 - Departure time
-- Arrival time
+- Arrival time.
+
+The above mentioned data yield us the,
 - Block time (Time includes taxiing time and actual flying time)
-- Actual flying time
+- Actual flying time and the
 - Difference between block time and actual flying time.
+
 Running the script will export the above mentioned details as csv.
 
 # Requirements
